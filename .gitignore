@@ -9,3 +9,6 @@ config.status
 autom4te.cache/
 contrib/pacman/PKGBUILD
 contrib/spec/onedrive.spec
+
+# Nicho changes:
+*.service
